@@ -3,7 +3,7 @@
 **Staff Security Engineer | Platform Security | Security Architecture | Cloud Native Security**
 
 California, USA  
-edgarrios30@gmail.com | 📱 (805) 760-6974
+edgarrios30@gmail.com |
 LinkedIn: [linkedin.com/in/yourprofile ](https://www.linkedin.com/in/edgarriosv/)• GitHub: https://github.com/edgarrv1
 
 ---
