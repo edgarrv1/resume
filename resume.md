@@ -10,7 +10,7 @@ LinkedIn: [linkedin.com/in/yourprofile ](https://www.linkedin.com/in/edgarriosv/
 
 # Professional Summary
 
-Staff-level Security Engineer with 5+ years of experience designing, securing, and enabling cloud-native platforms at enterprise scale. Experienced in security architecture, application security, cloud infrastructure, identity and access management, Kubernetes security, penetration testing, and security automation. Trusted advisor to engineering teams throughout the software development lifecycle, providing pragmatic, risk-based guidance that balances security with business objectives. Combines deep security expertise with modern software engineering and AI-assisted development to build scalable security capabilities, automate compliance, and improve developer productivity.
+Security Engineer with 5+ years of experience designing, securing, and enabling cloud-native platforms at enterprise scale. Experienced in security architecture, application security, cloud infrastructure, identity and access management, Kubernetes security, penetration testing, and security automation. Trusted advisor to engineering teams throughout the software development lifecycle, providing pragmatic, risk-based guidance that balances security with business objectives. Combines deep security expertise with modern software engineering and AI-assisted development to build scalable security capabilities, automate compliance, and improve developer productivity.
 
 ---
 
