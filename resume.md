@@ -4,7 +4,7 @@
 
 California, USA  
 edgarrios30@gmail.com | 📱 (805) 760-6974
-LinkedIn: [linkedin.com/in/yourprofile ](https://www.linkedin.com/in/edgarriosv/)• GitHub: github.com/yourusername
+LinkedIn: [linkedin.com/in/yourprofile ](https://www.linkedin.com/in/edgarriosv/)• GitHub: https://github.com/edgarrv1
 
 ---
 
